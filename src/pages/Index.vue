@@ -13,7 +13,7 @@
     <h2>Lifelong Holistic Health for Mind & Body</h2>
     <b>Hello, 2019!</b>
 
-    <p>We’re glad you’re here.</p>
+    <p>We're glad you're here.</p>
     <p>Lumiére is French for light. Our mission at Lumiére Health is to create a community where we embrace and love the inner light that makes our wellness dreams reality; where every person is valued for who they are, the beauty they already hold, and the strength they possess.</p>
     <p>Each of us has a light inside that yearns to be seen; to guide us to our dreams.</p>
     <p>Our mission is to cultivate a wellness community that helps build each other up and turn that light into fire. We are here to create a holistic approach to health and help generate those intentional moments throughout the day that help create lifelong change.</p>
