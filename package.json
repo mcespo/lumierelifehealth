@@ -13,5 +13,9 @@
     "gridsome": "^0.6.0",
     "gridsome-plugin-netlify-cms": "^1.0.6",
     "netlify-cms": "^2.9.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0"
   }
 }
