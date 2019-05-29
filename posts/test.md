@@ -1,6 +1,7 @@
 ---
 title: this is a test post
 excerpt: excerpt text
+featuredImage: "/media/meli.jpg"
 date: 2019-05-29T18:34:06.852Z
 ---
 ## this is a header
