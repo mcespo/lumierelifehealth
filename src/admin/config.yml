@@ -2,8 +2,8 @@ backend:
   name: github
   repo: mcespo/lumierelifehealth
 
-media_folder: "static/uploads"
-public_folder: "/uploads"
+media_folder: "static/media"
+public_folder: "/media"
 
 collections:
   - name: "posts"
